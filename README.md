@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/c7a22cd6-d08e-46b8-ad21-46b7e7457ae6
 | 来源期刊 | 文章标题 | 阅读模式 | 预览链接 |
 | :--- | :--- | :--- | :--- |
 | **Nature** | 48 hours without lungs: artificial organ kept man alive until transplant | 深度研读 (Deep) | [查看文档](./examples/2026-01-31-Nature.md) |
-| **Science** | How tumours trick the brain into shutting down cancer-fighting cells | 快速泛读 (Skim) | [查看文档](./examples/2026-02-02-Nature.md) |
+| **Science** | How tumours trick the brain into shutting down cancer-fighting cells | 快速泛读 (Skim) | [查看文档](./examples/2026-02-05-Nature.md) |
 
 ### 🖼️ 界面截图
 | 配置界面 |
