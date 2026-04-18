@@ -24,7 +24,6 @@ Academic_Pulse/
 ├── core/                # 核心逻辑 (Scraper基类、AI引擎)
 ├── scrapers/            # 期刊适配器 (Science, Nature, Cell)
 ├── config/              # 配置文件 (YAML)
-├── output/              # 自动化生成的 Markdown 报告与配图
 ├── gui.py               # 图形界面入口
 ├── main.py              # 程序主逻辑与调度器
 └── requirements.txt     # 项目依赖
@@ -53,7 +52,7 @@ Academic_Pulse/
 ### 演示视频
 你可以通过下面的链接观看 Academic Pulse 的完整运行过程（包括 WebVPN 自动登录及 UI 操作演示）：
 
-[![Academic Pulse Demo](https://img.shields.io/badge/Bilibili-演示视频-blue?logo=bilibili)](你的B站视频链接)
+[![Academic Pulse Demo](【学校买的期刊,你不看看吗?】 https://www.bilibili.com/video/BV1Zsz9BVEh5/?share_source=copy_web&vd_source=e778e99289cda8e95b5b052ca255f7d1)]
 > *注：视频展示了如何一键完成从 ZJU 门户登录到生成 AI 综述的全流程。*
 
 ### 生成文档示例 (Sample Outputs)
