@@ -1,5 +1,10 @@
 # Academic Pulse (学术脉动) 
 
+> **Academic-Pulse: Automated Research Intelligence Pipeline**
+> *An automated data pipeline engineered to maximize the signal-to-noise ratio in frontier literature tracking. This tool leverages Playwright for dynamic DOM parsing to scrape top-tier journals (Nature, Science, Cell) and integrates OpenAI-compatible LLM APIs to autonomously extract, summarize, and compile complex academic papers into structured Markdown intelligence.*
+> **Tech Stack:** Python 3.10+, Playwright (Headless Scraping), LLM API Integration, Concurrency (Threading), Tkinter UI.
+>
+
 Academic Pulse 是一款专为科研人员（特别是浙江大学学子）设计的学术情报自动化工具。它能够自动通过 WebVPN 访问顶级学术期刊，利用大语言模型（LLM）对最新文献进行多维度研读，并生成图文并茂的 Markdown 简报。
 
 ## 核心特性
