@@ -66,4 +66,4 @@ Academic_Pulse/
 ### 🖼️ 界面截图
 | 配置界面 |
 | :--- |
-| ![GUI](.examples/assets/d77aa455ac119f5eecae701f72db527f.png) |
+| ![GUI](./examples/assets/d77aa455ac119f5eecae701f72db527f.png) |
