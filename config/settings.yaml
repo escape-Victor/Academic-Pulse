@@ -1,0 +1,38 @@
+ai:
+  api_url: http://localhost:11434/api/generate
+  model: qwen2.5:14b
+journals:
+  acm:
+    content_type: research
+    count: 3
+    enabled: false
+    mode: skim
+  acm_top_conf:
+    count: 5
+    enabled: false
+    keywords:
+    - system
+    - linux
+    - kernel
+    mode: deep
+  cell:
+    content_type: research
+    count: 1
+    enabled: true
+    mode: skim
+  nature:
+    content_type: research
+    count: 1
+    enabled: false
+    mode: skim
+  science:
+    content_type: news
+    count: 1
+    enabled: false
+    mode: skim
+schedule:
+  enable_startup: true
+  run_time: '15:00'
+user:
+  zju_id: '3250105897'
+  zju_pwd: yihui3.14
