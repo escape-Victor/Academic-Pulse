@@ -60,10 +60,10 @@ Academic_Pulse/
 
 | 来源期刊 | 文章标题 | 阅读模式 | 预览链接 |
 | :--- | :--- | :--- | :--- |
-| **Nature** | 48 hours without lungs: artificial organ kept man alive until transplant | 深度研读 (Deep) | [查看文档](./examples/2026-02-01_48_hours_without_lungs.md) |
-| **Science** | How tumours trick the brain into shutting down cancer-fighting cells | 快速泛读 (Skim) | [查看文档](./examples/2026-02-01_China_biotech.md) |
+| **Nature** | 48 hours without lungs: artificial organ kept man alive until transplant | 深度研读 (Deep) | [查看文档](./examples/2026-01-31-Nature.md) |
+| **Science** | How tumours trick the brain into shutting down cancer-fighting cells | 快速泛读 (Skim) | [查看文档](./examples/2026-02-02-Nature.md) |
 
 ### 🖼️ 界面截图
-| 配置界面 | 运行日志 |
-| :--- | :--- |
+| 配置界面 |
+| :--- |
 | ![GUI](./output/assets/gui_screenshot.png) |
