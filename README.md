@@ -59,7 +59,8 @@ Academic_Pulse/
 
 [![Academic Pulse Demo](【学校买的期刊,你不看看吗?】 https://www.bilibili.com/video/BV1Zsz9BVEh5/?share_source=copy_web&vd_source=e778e99289cda8e95b5b052ca255f7d1)]
 > *注：视频展示了如何一键完成从 ZJU 门户登录到生成 AI 综述的全流程。*
-[[video]]![](./examples/02.mp4)
+
+https://github.com/user-attachments/assets/c7a22cd6-d08e-46b8-ad21-46b7e7457ae6
 
 ### 生成文档示例 (Sample Outputs)
 点击下方链接查看程序自动生成的学术简报样张：
